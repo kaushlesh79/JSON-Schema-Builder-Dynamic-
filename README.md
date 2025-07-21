@@ -5,6 +5,12 @@ It's a perfect starting point for form builders, JSON schema generators, or conf
 
 ---
 
+## 🚀 Live Demo
+
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=netlify)](https://json-schema-builder-webapp.netlify.app/)
+
+
 ## Features
 
 - Add/Edit/Delete keys
