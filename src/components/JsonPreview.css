@@ -1,0 +1,24 @@
+/* JsonPreview.css */
+
+.json-preview-container {
+  width: 100%;
+  max-width: 500px;
+  background-color: #f3f3f3;
+  padding: 16px;
+  border-radius: 8px;
+  font-family: monospace;
+  overflow-x: auto;
+  border: 1px solid #ccc;
+}
+
+.json-preview-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.json-preview-code {
+  font-size: 14px;
+  white-space: pre-wrap;
+  word-break: break-word;
+}

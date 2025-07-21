@@ -1,0 +1,17 @@
+.json-field {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.json-field input,
+.json-field select {
+  padding: 6px;
+  font-size: 14px;
+}
+
+.nested-fields {
+  margin-left: 20px;
+  margin-top: 10px;
+}
